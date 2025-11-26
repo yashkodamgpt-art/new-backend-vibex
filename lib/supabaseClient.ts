@@ -8,10 +8,10 @@ import { createClient } from '@supabase/supabase-js';
 // =================================================================
 
 // 1. Replace 'YOUR_SUPABASE_URL' with your actual Supabase URL
-const supabaseUrl = 'https://onzxkzsiqovyntsgvnwe.supabase.co'; 
+const supabaseUrl = 'https://bocoyuhmsnpqcwphkvdb.supabase.co'; 
 
 // 2. Replace 'YOUR_SUPABASE_ANON_KEY' with your actual Supabase Anon Key
-const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9uenhrenNpcW92eW50c2d2bndlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQwNjc0NjQsImV4cCI6MjA3OTY0MzQ2NH0.c7G0ghVRvET0_0Ptu_2mVglEt0VLJJo1kOx_zM1yQxE';
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJvY295dWhtc25wcWN3cGhrdmRiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxNDEzMTcsImV4cCI6MjA3OTcxNzMxN30.kNxywQnx0fH85NAFa768z7e7cNk-DE0bs7ps7rRVYT8';
 
 // --- Do not edit below this line ---
 
